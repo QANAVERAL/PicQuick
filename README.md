@@ -79,7 +79,7 @@ PicQuick показывает локальные фото и видео по п�
 
 Если PicQuick пригодился — можешь кинуть на бензин для моей Opel Corsa. Она старая, но ещё ездит, как и я.
 
-👉 **[Задонатить❤️](https://donationalerts.com/r/qanaveral)**
+👉 **[Задонатить]❤️(https://donationalerts.com/r/qanaveral)**
 
 ---
 
