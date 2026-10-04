@@ -81,8 +81,6 @@ PicQuick показывает локальные фото и видео по п�
 
 👉 **[Задонатить](https://donationalerts.com/r/qanaveral)**
 
-[![Поддержать](https://img.shields.io/badge/❤️_Поддержать-DonationAlerts-ff69b4?style=for-the-badge)](https://donationalerts.com/r/qanaveral)
-
 ---
 
 © 2026 QANAVERAL. PicQuick.
