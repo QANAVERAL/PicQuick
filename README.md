@@ -25,6 +25,31 @@ PicQuick показывает локальные фото и видео по п�
 
 Приложение не содержит рекламы, облачной синхронизации, аналитики и трекеров.
 
+## 📸 Скриншоты
+
+<details>
+<summary>Развернуть скриншоты (12 штук)</summary>
+<br>
+
+<p align="center">
+  <img src="0.jpg" width="250" alt="Скриншот 0">
+  <img src="1.jpg" width="250" alt="Скриншот 1">
+  <img src="2.jpg" width="250" alt="Скриншот 2">
+  <img src="3.jpg" width="250" alt="Скриншот 3">
+  <br><br>
+  <img src="4.jpg" width="250" alt="Скриншот 4">
+  <img src="5.jpg" width="250" alt="Скриншот 5">
+  <img src="6.jpg" width="250" alt="Скриншот 6">
+  <img src="7.jpg" width="250" alt="Скриншот 7">
+  <br><br>
+  <img src="8.jpg" width="250" alt="Скриншот 8">
+  <img src="9.jpg" width="250" alt="Скриншот 9">
+  <img src="10.jpg" width="250" alt="Скриншот 10">
+  <img src="11.jpg" width="250" alt="Скриншот 11">
+</p>
+
+</details>
+
 ## Установка
 
 1. Откройте страницу [Releases](../../releases/latest).
