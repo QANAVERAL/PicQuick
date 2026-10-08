@@ -35,22 +35,12 @@ PicQuick показывает локальные фото и видео по п�
 <summary>Развернуть скриншоты (12 штук)</summary>
 <br>
 
-<p align="center">
-  <img src="Screenshots/0.jpg" width="250" alt="Скриншот 0">
-  <img src="Screenshots/1.jpg" width="250" alt="Скриншот 1">
-  <img src="Screenshots/2.jpg" width="250" alt="Скриншот 2"><br>
-  <img src="Screenshots/3.jpg" width="250" alt="Скриншот 3">
-  <br><br>
-  <img src="Screenshots/4.jpg" width="250" alt="Скриншот 4">
-  <img src="Screenshots/5.jpg" width="250" alt="Скриншот 5"><br>
-  <img src="Screenshots/6.jpg" width="250" alt="Скриншот 6">
-  <img src="Screenshots/7.jpg" width="250" alt="Скриншот 7">
-  <br><br>
-  <img src="Screenshots/8.jpg" width="250" alt="Скриншот 8"><br>
-  <img src="Screenshots/9.jpg" width="250" alt="Скриншот 9">
-  <img src="Screenshots/10.jpg" width="250" alt="Скриншот 10">
-  <img src="Screenshots/11.jpg" width="250" alt="Скриншот 11"><br>
-</p>
+| | | |
+|---|---|---|
+| <img src="Screenshots/0.jpg" width="250"> | <img src="Screenshots/1.jpg" width="250"> | <img src="Screenshots/2.jpg" width="250"> |
+| <img src="Screenshots/3.jpg" width="250"> | <img src="Screenshots/4.jpg" width="250"> | <img src="Screenshots/5.jpg" width="250"> |
+| <img src="Screenshots/6.jpg" width="250"> | <img src="Screenshots/7.jpg" width="250"> | <img src="Screenshots/8.jpg" width="250"> |
+| <img src="Screenshots/9.jpg" width="250"> | <img src="Screenshots/10.jpg" width="250"> | <img src="Screenshots/11.jpg" width="250"> |
 
 </details>
 
