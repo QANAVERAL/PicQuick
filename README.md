@@ -1,7 +1,7 @@
 # PicQuick
 
 <p align="center">
-  <img src="Banner.png" width="800" alt="PicQuick">
+  <img src="Banner.png2" width="800" alt="PicQuick">
 </p>
 
 **PicQuick** — быстрая и лёгкая офлайн-галерея для Android в духе классического QuickPic. Приложение предназначено для локального просмотра фото и видео без рекламы, облачной синхронизации и аналитики.
