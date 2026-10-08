@@ -1,3 +1,5 @@
+**[English](README.en.md) | Русский**
+
 # PicQuick
 
 <p align="center">
