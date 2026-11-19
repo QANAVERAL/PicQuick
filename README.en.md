@@ -20,8 +20,8 @@ The latest stable version is available in the [Releases](../../releases/latest) 
 |---|---|
 | Developer | **QANAVERAL** |
 | Package name | `qanaveral.picquick` |
-| Current version | `1.1.6` |
-| Version code | `458` |
+| Current version | `1.2.0` |
+| Version code | `484` |
 | Requires Android | Android 7.0 and above |
 | Operation mode | Local offline gallery |
 
